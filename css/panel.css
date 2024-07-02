@@ -8,7 +8,7 @@
      background: #1E1E1E;
      background: #222;
      width: 100%;
-     background-image: url("../bg/arches.png");
+     background-image: url("../assets/bg/arches.png");
 }
  .panel + .panel{
      margin-top: 8px;

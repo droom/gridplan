@@ -60,11 +60,6 @@
 
 
 
-
-
-
-
-
 .points{
      border-radius: 50%;
      background: green;
@@ -134,13 +129,10 @@
     opacity: 0.9;
 }
 
-
-
 .unit:has(.p100){
 /*    opacity: 0.3;*/
 /*    border-color: seagreen;*/
 }
-
 
 
 /* guide */
