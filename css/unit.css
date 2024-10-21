@@ -1,7 +1,7 @@
  .unit{
      width: 150px;
      min-width: 150px;
-     border-radius: 6px;
+     border-radius: 4px;
      white-space: wrap;
      display: flex;
      flex-direction: column;
@@ -42,7 +42,7 @@
      left: 5px;
      font-size: 9px;
      padding: 4px 6px;
-     border: rgba(255, 255, 255, 0.4);
+     border: rgba(255, 255, 255, 0.3);
      border-width: 1px;
      border-style: solid;
      color: white;

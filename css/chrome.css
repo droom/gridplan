@@ -6,51 +6,18 @@
      width: 40px;
      z-index: 999;
 }
-
-header{
-   display: flex;
+ header{
+     display: flex;
 }
-
-header div{
+ header div:nth-child(1){
+     flex-grow: 1;
 }
-
-header div:nth-child(1){
-flex-grow: 1;
+ sup{
+     font-size: 9px;
+     vertical-align: super;
 }
-header div:nth-child(2){
-}
-
-.clock{
-     margin: 20px 20px 0 0;
-     line-height: 1.2rem;
-     font-family: "Roboto Mono", monospace;
-     font-optical-sizing: auto;
-       font-weight: 400;
-     font-style: normal;
-     font-size: 12px;
-     text-transform: uppercase;
-}
-
-.time,
-.date{
-/*   display: inline-flex;*/
-   display: inline;
-
-}
-
-.time{
-   margin-left: 20px;
-}
-
-
-sup{
-font-size: 9px;
-vertical-align: super;
-}
-
  h1{
-    color: white;
+     color: white;
      margin: 20px 0 60px 150px;
      font-size: 18px;
 }
-

@@ -1,0 +1,37 @@
+ .categories{
+     margin-left: 150px;
+     margin-bottom: 30px;
+     font-size: 12px;
+/*     font-family: "roboto mono";*/
+/*     text-transform: uppercase;*/
+}
+ .categories li{
+     display: inline-block;
+}
+ .categories li a{
+     border: 1px solid #111;
+     padding: 6px 10px;
+     border-radius: 7px;
+     min-width: 80px;
+     display: block;
+     text-align: center;
+     transition: all 600ms ease;
+
+
+}
+ .categories li a:hover{
+     border: 1px solid #666;
+       background-color: #fff;
+
+}
+ .categories li a.active{
+     background-color: rgba(200,200,200,0.7);
+     color: #222;
+
+       background-color: #fff;
+
+      box-shadow:
+    0 0 2px 2px #fff,  /* inner white */
+    0 0 7px 5px #0ff; /* outer cyan */
+}
+ 
