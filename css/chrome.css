@@ -12,9 +12,16 @@
  header div:nth-child(1){
      flex-grow: 1;
 }
+
+
+footer{
+    min-height: 50px;
+}
+
  sup{
      font-size: 9px;
      vertical-align: super;
+
 }
  h1{
      color: white;
