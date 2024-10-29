@@ -46,10 +46,11 @@
      border-width: 1px;
      border-style: solid;
      color: white;
-     color: #222;
+/*     color: #222;*/
      text-transform: uppercase;
 /*     mix-blend-mode: exclusion;*/
-     background-color: rgba(255, 255, 255, 1);
+/*     background-color: rgba(255, 255, 255, 1);*/
+     background-color: #297eff;
 }
 
  .unit .top .tag.gtm{
